@@ -1,0 +1,14 @@
+{
+  "includedSources": [
+    "AI",
+    "DMG",
+    "MM",
+    "MPMM",
+    "PHB",
+    "TCE",
+    "XDMG",
+    "XGE",
+    "XMM",
+    "XPHB"
+  ]
+}

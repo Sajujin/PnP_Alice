@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Inhaltsverzeichnis - Lore.md",
+                "file": "Items/Used Spells/Arkanes Auge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inhaltsverzeichnis - Lore"
+              "title": "Arkanes Auge"
             }
           }
         ],
@@ -244,8 +244,8 @@
   },
   "active": "a35a6c3a88afa05b",
   "lastOpenFiles": [
-    "Lore/Angels/Liliel.md",
     "Lore/Inhaltsverzeichnis - Lore.md",
+    "Lore/Angels/Liliel.md",
     "Lore/Emanations",
     "Lore/Angels",
     "Items/Inhaltsverzeichnis - Items.md",
