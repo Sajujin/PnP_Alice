@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Index-Items.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index-Items"
+              "title": "index"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/3Y3-CH1P.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Y3-CH1P"
+              "title": "index"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/3Y3-CH1P.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,14 +227,14 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "2aa5a4c073617928",
+  "active": "1f13746b855bc5a0",
   "lastOpenFiles": [
-    "Items/Index-Items.md",
-    "Items/3Y3-CH1P.md",
+    "category-folder/Some note.md",
     "category-folder/index.md",
+    "Items/3Y3-CH1P.md",
+    "index.md",
     "Lore",
     "Items",
-    "category-folder/Some note.md",
     "category-folder"
   ]
 }
