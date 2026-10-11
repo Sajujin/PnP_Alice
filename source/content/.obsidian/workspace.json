@@ -55,16 +55,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Items/Inhaltsverzeichnis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Inhaltsverzeichnis"
+            }
+          },
+          {
+            "id": "a35a6c3a88afa05b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Items/Unbenannt.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -25,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Items/Unbenannt.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +226,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -227,12 +245,19 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1f13746b855bc5a0",
+  "active": "85d4b7cbb53cb6ba",
   "lastOpenFiles": [
-    "category-folder/Some note.md",
+    "Items/Inhaltsverzeichnis.md",
+    "Items/Used Spells/Unsichtbares sehen.md",
+    "Items/Used Spells/Arkanes Auge.md",
+    "Items/Equipment/3Y3-CH1P (Crude).md",
+    "Items/Unbenannt.canvas",
+    "Items/Used Spells",
+    "Items/Equipment",
+    "Items/Unbenannt.base",
     "index.md",
+    "category-folder/Some note.md",
     "category-folder/index.md",
-    "Items/3Y3-CH1P.md",
     "Lore",
     "Items",
     "category-folder"
