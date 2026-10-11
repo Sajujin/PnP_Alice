@@ -4,6 +4,10 @@ Eine Tänzerin der Wolken, wunderschön aber kalt.  Unter ihren Flügeln finden 
 
 Vom Stand steht Sie zwischen Schönheit und Basis, ohne das Wissen von Schönheit könnte niemand ihr aussehen als schön definieren, ohne eine Basis könnten Träume, Tanz und Spaß nicht existieren.
 
+
+"Bis wir uns im Reich der Nacht wieder begegnen "~Leliel
+
+
 _Wo schwarzer Nebel die Erde verschlingt,
 und tief aus der Leere ein Flüstern erklingt,
 dort wandle ich lautlos, vom Monde bewacht,
