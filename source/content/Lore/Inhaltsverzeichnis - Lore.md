@@ -6,5 +6,5 @@ title: Lore
 ## Emanations:
 
 ## Angels:
-[[Liliel]]
+[[Leliel]]
 
