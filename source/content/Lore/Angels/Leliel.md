@@ -1,9 +1,11 @@
-Der Engel der Nacht.
+Der Engel der Nacht, Domaine: Sternenbrunnen
 
 Eine Tänzerin der Wolken, wunderschön aber kalt.  Unter ihren Flügeln finden viele Jünger Schutz. Träumer, welche in der Dunkelheit glänzen, welche die Welt bewandern in Tanz und Spaß. Diejenigen welche sich der Sonne abwenden können Leliel vielleicht am Himmel sehen und einen ihrer Tänze erhaschen.
 
 Vom Stand steht Sie zwischen Schönheit und Basis, ohne das Wissen von Schönheit könnte niemand ihr aussehen als schön definieren, ohne eine Basis könnten Träume, Tanz und Spaß nicht existieren.
 
+Es sidn 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurückverfolgt wurden:
+[[Die Subtile Klaue (unbekannt)]] und [[Loose Umhang (unbekannt)]].
 
 "Bis wir uns im Reich der Nacht wieder begegnen "~Leliel
 
@@ -26,4 +28,4 @@ Kein Licht findet heim ~Lucian (?)
 ____________________
 Ein Flüstern im Traum
 Kalte Schatten greifen nach
-Der Seele im Schlaf ~Morwen (Nachtpriesterin)
+Der Seele im Schlaf ~Morwen (Höchste Nachtpriesterin)

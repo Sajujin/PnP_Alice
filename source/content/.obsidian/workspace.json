@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Angels/Leliel.md",
+                "file": "Items/Equipment/Loose Umhang (unbekannt).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leliel"
+              "title": "Loose Umhang (unbekannt)"
             }
           }
         ],
@@ -216,8 +216,10 @@
   },
   "active": "df2a57657e9a96f7",
   "lastOpenFiles": [
-    "Items/Used Spells/Arkanes Auge.md",
     "Lore/Angels/Leliel.md",
+    "Items/Equipment/Loose Umhang (unbekannt).md",
+    "Items/Equipment/Die Subtile Klaue (unbekannt).md",
+    "Items/Used Spells/Arkanes Auge.md",
     "Items/Used Spells/Unsichtbares sehen.md",
     "Items/Equipment/3Y3-CH1P (Crude).md",
     "Items/Inhaltsverzeichnis - Items.md",
