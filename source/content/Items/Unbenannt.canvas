@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"aeb6aa180fc55443","x":-380,"y":-240,"width":250,"height":60,"type":"text","text":"Test Canvas"},
-		{"id":"d10a0095c0f5b8c7","x":-20,"y":-210,"width":400,"height":400,"type":"file","file":"Items/Equipment/3Y3-CH1P (Crude).md"}
+		{"id":"aeb6aa180fc55443","type":"text","text":"Test Canvas","x":-380,"y":-240,"width":250,"height":60},
+		{"id":"d10a0095c0f5b8c7","type":"file","file":"Items/Equipment/3Y3-CH1P (Crude).md","x":-20,"y":-210,"width":440,"height":400}
 	],
 	"edges":[
 		{"id":"a4a1776f6fde4d33","fromNode":"aeb6aa180fc55443","fromSide":"bottom","toNode":"d10a0095c0f5b8c7","toSide":"left"}

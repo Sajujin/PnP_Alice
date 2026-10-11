@@ -55,29 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Inhaltsverzeichnis.md",
+                "file": "Items/Inhaltsverzeichnis - Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inhaltsverzeichnis"
+              "title": "Inhaltsverzeichnis - Items"
             }
           },
           {
             "id": "a35a6c3a88afa05b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Items/Unbenannt.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -25,
-                  "zoom": 0
-                }
+                "file": "Items/Equipment/3Y3-CH1P (Crude).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "3Y3-CH1P (Crude)"
             }
           }
         ],
@@ -159,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Unbenannt.canvas",
+                "file": "Items/Equipment/3Y3-CH1P (Crude).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,19 +242,20 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "85d4b7cbb53cb6ba",
+  "active": "a35a6c3a88afa05b",
   "lastOpenFiles": [
-    "Items/Inhaltsverzeichnis.md",
+    "Lore/Inhaltsverzeichnis - Lore.md",
+    "Items/Unbenannt.canvas",
+    "category-folder/index.md",
+    "Items/Inhaltsverzeichnis - Items.md",
+    "index.md",
     "Items/Used Spells/Unsichtbares sehen.md",
     "Items/Used Spells/Arkanes Auge.md",
     "Items/Equipment/3Y3-CH1P (Crude).md",
-    "Items/Unbenannt.canvas",
     "Items/Used Spells",
     "Items/Equipment",
     "Items/Unbenannt.base",
-    "index.md",
     "category-folder/Some note.md",
-    "category-folder/index.md",
     "Lore",
     "Items",
     "category-folder"
