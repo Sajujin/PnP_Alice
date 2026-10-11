@@ -5,7 +5,7 @@ Eine Tänzerin der Wolken, wunderschön aber kalt.  Unter ihren Flügeln finden 
 Vom Stand steht Sie zwischen Schönheit und Basis, ohne das Wissen von Schönheit könnte niemand ihr aussehen als schön definieren, ohne eine Basis könnten Träume, Tanz und Spaß nicht existieren.
 
 Es sind 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurückverfolgt wurden:
-[[Die Subtile Klaue (unbekannt)]] und [[Lose Umhang (unbekannt)]].
+[[Die Subtile Klaue (unbekannt)]] und [[Der Lose Umhang (unbekannt)]].
 
 "Bis wir uns im Reich der Nacht wieder begegnen!"~Leliel
 

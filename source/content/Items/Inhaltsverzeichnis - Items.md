@@ -8,4 +8,4 @@ title: Items
 
 Beide Gegenstände wurden genannt im Buch in Leliels Tempel beim Versuch Jedza aufzuhalten.
 [[Die Subtile Klaue (unbekannt)]]
-[[Lose Umhang (unbekannt)]]
+[[Der Lose Umhang (unbekannt)]]
