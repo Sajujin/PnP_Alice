@@ -12,11 +12,11 @@ You mentally receive visual information from the eye, which has normal vision an
 As an [action](https://roll20.net/compendium/dnd5e/Combat#toc_20), you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can [move](https://roll20.net/compendium/dnd5e/Combat#toc_9), but it can't enter another [plane of existence](https://roll20.net/compendium/dnd5e/The%20Planes%20of%20Existence#content). A solid barrier blocks the eye's [movement](https://roll20.net/compendium/dnd5e/Movement#content), but the eye can pass through an opening as small as 1 inch in diameter.
 ## Deutsch:
 _4tes Level Erkenntnismagie (Magier)_
-**Zeitaufwand:** 1 Aktion
-**Wirkungsdauer:**  Konzentration, bis zu 1 Stunde
-**Reichweite:** 9 Meter
-**Komponenten:** V, G, M (ein bisschen Fledermausfell)
-**Ritual:** Nein
+**Zeitaufwand:** 1 Aktion 
+**Wirkungsdauer:**  Konzentration, bis zu 1 Stunde 
+**Reichweite:** 9 Meter 
+**Komponenten:** V, G, M (ein bisschen Fledermausfell) 
+**Ritual:** Nein 
 #### Beschreibung:
 Du erschaffst ein unsichtbares, magisches Auge in Reichweite, das für die Wirkungsdauer in der Luft schwebt.
 
