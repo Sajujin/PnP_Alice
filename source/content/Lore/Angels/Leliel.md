@@ -4,7 +4,7 @@ Eine Tänzerin der Wolken, wunderschön aber kalt.  Unter ihren Flügeln finden 
 
 Vom Stand steht Sie zwischen Schönheit und Basis, ohne das Wissen von Schönheit könnte niemand ihr aussehen als schön definieren, ohne eine Basis könnten Träume, Tanz und Spaß nicht existieren.
 
-Es sidn 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurückverfolgt wurden:
+Es sind 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurückverfolgt wurden:
 [[Die Subtile Klaue (unbekannt)]] und [[Loose Umhang (unbekannt)]].
 
 "Bis wir uns im Reich der Nacht wieder begegnen "~Leliel
@@ -13,19 +13,23 @@ Es sidn 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurüc
 _Wo schwarzer Nebel die Erde verschlingt,
 und tief aus der Leere ein Flüstern erklingt,
 dort wandle ich lautlos, vom Monde bewacht,
-ein Schatten geboren im Herzen der Nacht. ~Neriah (Traumdeuterin)
+ein Schatten geboren im Herzen der Nacht. ~Neriah (Traumdeuterin)_
+
 _______________
-Geboren aus der Nacht,
+_Geboren aus der Nacht,
 wo schweigend der letzte Stern verglüht,
 und tief in den Schatten kein Morgen erwacht.
 Wo eisiger Nebel die Erde bewacht,
 und Kälte in den Seelen erblüht,
-dort halte ich Wacht, bis die Seele zerbricht in der Nacht. ~Vael (Wanderer)_ 
+dort halte ich Wacht, bis die Seele zerbricht in der Nacht. ~Vael (Wanderer)_
+ 
 _______________________________
+
 _Die Sterne vergeh'n
 Schwarze Stille atmet tief
-Kein Licht findet heim ~Lucian (?)
+Kein Licht findet heim ~Lucian (?)_
+
 ____________________
-Ein Flüstern im Traum
+_Ein Flüstern im Traum
 Kalte Schatten greifen nach
-Der Seele im Schlaf ~Morwen (Höchste Nachtpriesterin)
+Der Seele im Schlaf ~Morwen (Höchste Nachtpriesterin)_
