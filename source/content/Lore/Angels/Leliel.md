@@ -7,7 +7,7 @@ Vom Stand steht Sie zwischen Schönheit und Basis, ohne das Wissen von Schönhei
 Es sind 2 Artefakte bekannt welche zu Priestern und Anhängern von Leliel zurückverfolgt wurden:
 [[Die Subtile Klaue (unbekannt)]] und [[Loose Umhang (unbekannt)]].
 
-"Bis wir uns im Reich der Nacht wieder begegnen "~Leliel
+"Bis wir uns im Reich der Nacht wieder begegnen!"~Leliel
 
 
 _Wo schwarzer Nebel die Erde verschlingt,
