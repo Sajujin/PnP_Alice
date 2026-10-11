@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Items/3Y3-CH1P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +209,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +227,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "1f13746b855bc5a0",
+  "active": "2aa5a4c073617928",
   "lastOpenFiles": [
     "Items/Index-Items.md",
     "Items/3Y3-CH1P.md",
